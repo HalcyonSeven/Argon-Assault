@@ -201,6 +201,9 @@ MonoBehaviour:
   controlPitchFactor: -15
   positionYawFactor: 2
   controlRollFactor: 15
+  lasers:
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!1 &1434261577603055165
 GameObject:
   m_ObjectHideFlags: 0
