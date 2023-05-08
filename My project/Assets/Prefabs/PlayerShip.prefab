@@ -196,14 +196,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controlSpeed: 30
-  xRange: 10
+  xRange: 14
   positionPitchFactor: -2
   controlPitchFactor: -15
   positionYawFactor: 2
-  controlRollFactor: 15
+  controlRollFactor: -15
   lasers:
   - {fileID: 0}
   - {fileID: 0}
+  cam: {fileID: 0}
 --- !u!1 &1434261577603055165
 GameObject:
   m_ObjectHideFlags: 0
